@@ -1,2 +1,2 @@
 x=2 
-print(x)
+print(2*x)
